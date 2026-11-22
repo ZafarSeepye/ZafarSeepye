@@ -65,7 +65,8 @@ I'm currently learning **TypeScript** and **Node.js** to build full-stack JavaSc
 ## Outside of code
 
 I represented South Africa in bank angling in 2022 and earned my Protea colours.
-
+Robotics President - High School
+Prefect High School
 ## Get in touch
 
 [LinkedIn](https://www.linkedin.com/in/zafarseepye) · [Email](mailto:zafarseepye@gmail.com)
