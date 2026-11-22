@@ -45,6 +45,7 @@ Paste a job advert and a CV, and JobFit AI gives an honest fit score, the requir
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
 - IT Specialist: JavaScript, and IT Specialist: HTML and CSS (Certiport)
 - Claude Code 101 and Claude Code in Action (Anthropic)
+- Python Essentials Cisco 
 
 ## Outside of code
 
