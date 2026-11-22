@@ -1,4 +1,4 @@
-![Zafar Seepye](banner.png)
+![Zafar Seepye](Zafar_Seepye_LinkedIn_Banner%402x.png)
 
 # Hi, I'm Zafar
 
@@ -31,21 +31,36 @@ Paste a job advert and a CV, and JobFit AI gives an honest fit score, the requir
 | [Mzansi Payroll System](https://github.com/ZafarSeepye/MzansiPayrollSystem) | Calculates contractor pay and deductions, backed by unit tests | C#, Windows Forms, MSTest |
 | [ULMS Testing Project](https://github.com/ZafarSeepye/ULMSWinFormsApp-SDT621) | Learning management system that I tested, documented and debugged | C#, .NET, Windows Forms |
 
-## Skills
+## Languages and tools
 
-**Languages:** C#, Python, Java, JavaScript, SQL, HTML, CSS
-**Web and desktop:** ASP.NET Core, Entity Framework Core, Windows Forms
-**AI:** Claude API, structured outputs, prompt design
-**Data:** SQL Server, SQLite, database design, Power BI
-**Quality:** unit testing, test-driven development, test plans and defect reporting
-**Cloud and tools:** Microsoft Azure, Azure DevOps, Docker, Render, GitHub Actions, Git, Visual Studio, VS Code, Claude Code
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,py,java,js,html,css" alt="C#, Python, Java, JavaScript, HTML, CSS" />
+</p>
+
+**Frameworks, cloud and tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,azure,docker,githubactions,git,github,sqlite,visualstudio,vscode" alt=".NET, Azure, Docker, GitHub Actions, Git, GitHub, SQLite, Visual Studio, VS Code" />
+</p>
+
+**Currently learning**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs" alt="TypeScript, Node.js" />
+</p>
+
+I'm currently learning **TypeScript** and **Node.js** to build full-stack JavaScript applications.
+
+**Also:** SQL, SQL Server, ASP.NET Core, Entity Framework Core, Windows Forms, Power BI, Claude API, Claude Code, Azure DevOps, unit testing, test-driven development, test plans and defect reporting
 
 ## Certifications
 
 - Microsoft Certified: Azure Data Fundamentals (DP-900)
 - IT Specialist: JavaScript, and IT Specialist: HTML and CSS (Certiport)
 - Claude Code 101 and Claude Code in Action (Anthropic)
-- Python Essentials Cisco 
+- Python Essentials 1 (Cisco Networking Academy)
 
 ## Outside of code
 
