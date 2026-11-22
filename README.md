@@ -6,6 +6,8 @@ I'm a final-year Software Engineering student at CTU Training Solutions in Preto
 
 I'm currently looking for a software development or engineering internship or graduate role.
 
+zafarseepye.github.io - View My Profile 
+
 ## Featured project: JobFit AI
 
 **[Try it live](https://jobfitai-nbe4.onrender.com)** · **[View the code](https://github.com/ZafarSeepye/JobFitAI)**
